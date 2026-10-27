@@ -51,9 +51,3 @@ Para reproduzir: (1) executar as consultas no FreeSQL; (2) salvar os resultados 
 ## Melhorias futuras
 
 Validar as datas com formato explícito; preservar um relatório de duplicações antes da remoção; comparar remuneração por nível de cargo e departamento; avaliar distribuições por região e faixa salarial com tamanhos amostrais mínimos; documentar o efeito dos filtros SQL.
-
-## Vídeo de apresentação
-
-**Link:** [inserir link público ou compartilhável do vídeo de até 7 minutos].
-
-O vídeo deve demonstrar a execução e explicar o objetivo, a importância das consultas SQL, os insights da EDA, os anos de admissão e salários atuais, o cruzamento por departamento, os outliers e análises adicionais para avaliar faixas salariais de novos contratados.
