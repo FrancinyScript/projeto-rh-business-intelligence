@@ -1,8 +1,8 @@
 # Análise de Recursos Humanos com SQL e Python
 
 **Disciplina:** Visualização de Dados e Business Intelligence — Módulo 1 (Projeto de Recuperação)  
-**Aluno(a):** [preencher]  
-**Turma:** [preencher]
+**Aluno(a):** [Franciny Lieny Souza]  
+**Turma:** [Curso de BI]
 
 ## Objetivo
 
